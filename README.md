@@ -1,29 +1,18 @@
-# vue3-plugin
+# Vue3 Plugin
+
+Vue3 demo plugin.
+
+The purpose is to build a very basic Vue3 plugin that works.
 
 ## Project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Compiles and minifies for production
 
-### Compiles and minifies for production
 ```
 npm run build
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
